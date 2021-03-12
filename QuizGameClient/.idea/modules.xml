@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QuizGameClient.iml" filepath="$PROJECT_DIR$/QuizGameClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz-network-commons/quiz-network-commons.iml" filepath="$PROJECT_DIR$/../quiz-network-commons/quiz-network-commons.iml" />
+    </modules>
+  </component>
+</project>

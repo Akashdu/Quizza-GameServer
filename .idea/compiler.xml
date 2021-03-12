@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="QuizGameServer" />
+        <module name="quiz-network-commons" />
+        <module name="QuizGameClient" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="quiz-network-commons" target="1.6" />
+      <module name="QuizGameClient" target="1.6" />
+      <module name="QuizGameServer" target="11" />
+      <module name="QuizNetworking" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
